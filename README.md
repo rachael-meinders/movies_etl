@@ -6,7 +6,12 @@ Amazing Prime is sponsoring a hackathon to identify rising and popular movies fo
 ### Purpose
 1. Extract the data from Wikipedia and Movie Land
 2. Transform the data to one good, clean, complete data set
-4. Load the data set into a SQL database
+3. Load the data set into a SQL database
+
+### Resources
+- wikipedia-movies.json
+- movies_metadata.csv
+- ratings.csv
 
 ## Challenge Overview
 I have been further challenged to refactor the original data to create an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables.
